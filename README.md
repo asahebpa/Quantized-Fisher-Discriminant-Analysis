@@ -1,1 +1,0 @@
-# Quantized-Fisher-Discriminant-Analysis
